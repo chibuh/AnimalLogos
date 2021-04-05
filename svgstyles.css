@@ -1,0 +1,274 @@
+/* Panda */
+.div1 {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    padding: 0;
+    margin: 0;
+}
+
+.div2 {
+    background: linear-gradient(to right,  rgba(88,44,6,255) 0%,rgba(88,44,6,255) 50%,rgba(101,51,1,255) 50%,rgba(101,51,1,255) 100%);
+
+    background-color: rgba(88,44,6,255);
+    clip-path: polygon(15% 0, 5% 10%, 10% 25%, 0 75%, 50% 100%, 100% 75%, 90% 25%, 95% 10%, 85% 0, 70% 10%, 30% 10%);    
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+ .div3 {
+    background: linear-gradient(to right,  rgba(101,51,2,255) 0%,rgba(101,51,2,255) 50%,rgba(113,57,0,255) 50%,rgba(113,57,0,255) 100%);
+    clip-path: polygon(50% 10%, 90% 25%, 92% 70%, 50% 100%, 8% 70%, 10% 25%);
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+
+.divNOSE {
+    background-color: #f8cb8a;
+    clip-path: polygon(60% 30%, 75% 70%, 64% 87%, 50% 100%, 36% 87%, 25% 70%, 40% 30%);
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.divNOSEA {
+    background: linear-gradient(to bottom,  #ffdca8 0%,#ffdca8 67.5%,#121212 67.5%,#121212 100%);
+    clip-path: polygon(50% 30%, 37.5% 67.5%, 50% 80%, 62.5% 67.5%);
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.divEYE1 {
+    position: relative;
+    float: left;
+    top: 0;
+    background-color: #432201;
+    clip-path:polygon(18% 32%, 35.5% 44%,40% 32%);
+    width: 100px;
+    height: 100px;
+    padding: 0;
+    margin: 0;
+}
+.divEYE2 {
+    position: relative;
+    float: left;
+    top: 0;
+    background-color: #432201;
+    clip-path:polygon(82% 32%, 64.5% 44%,60% 32%);
+    width: 100px;
+    height: 100px;
+    padding: 0;
+    margin: 0;
+}
+
+/* OWL */
+
+.divB1 {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    padding: 0;
+    margin: 0;
+}
+
+.divB2 {
+    background: linear-gradient(to right,  rgba(6,113,155,255) 0%, rgba(6,113,155,255) 50%,rgba(9,164,221,255) 50%, rgba(9,164,221,255) 100%);
+    clip-path: polygon(35% 0, 65% 0, 92% 15%, 100% 55%, 88% 87%, 50% 100%, 10% 85%, 0 55%, 10% 15%);
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+.divB3 {
+    background: linear-gradient(to right,  rgba(178,178,178,255) 0%, rgba(178,178,178,255) 50%,rgba(255,255,255,255) 50%, rgba(255,255,255,255) 100%);
+    clip-path: polygon(39% 63%, 50% 80%, 61% 63%, 75% 68%, 82% 79%, 50% 100%, 18% 79%, 25% 68%);  
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.divBC1a {
+    position: relative;
+    float: left;
+    top: 740px;
+    background-color: rgba(5,79,108,255) ;
+    clip-path: polygon(10% 7%, 18% 1%, 50% 22%);
+    width: 400px;
+    height: 400px;
+    padding: 0;
+    margin: 0;
+}
+.divBC1b {
+    position: relative;
+    float: left;
+    top: 740px;
+    background-color: rgba(5,79,108,255) ;
+    clip-path: polygon(88% 9%, 82% 1%, 50% 22%);
+    width: 400px;
+    height: 400px;
+    padding: 0;
+    margin: 0;
+}
+
+.divBC2a {
+    position: relative;
+    float: left;
+    top: 500px;
+    background-color: rgba(149,154,149,255) ;
+    clip-path: polygon(18% 61.1%, 25% 50.05%, 39% 45.05%,18% 12%, 7% 29%);
+    width: 400px;
+    height: 400px;
+    padding: 0;
+    margin: 0;
+}
+.divBC2b {
+    position: relative;
+    float: left;
+    top: 500px;
+    background-color: rgba(218,218,218,255) ;
+    clip-path: polygon(82% 61.1%, 75% 50.05%, 61% 45.05%, 82% 12%, 93% 29%);
+    /* width: 400px;
+    height: 400px; */
+    padding: 0;
+    margin: 0;
+}
+.divBC3 {
+    position: relative;
+    float: left;
+    top: 500px;
+    background-color: #010101 ;
+    clip-path: polygon(50% 62%, 39% 45.05%, 50% 40%, 61% 45.05%);
+    width: 400px;
+    height: 400px;
+    padding: 0;
+    margin: 0;
+}
+.divBC3a {
+    position: relative;
+    float: left;
+    top: 500px;
+    background-color: #444444 ;
+    clip-path: polygon(50% 43%, 44% 47%,50% 45.5% ,56% 47%);
+    width: 400px;
+    height: 400px;
+    padding: 0;
+    margin: 0;
+}
+
+.divBC4a {
+    position: relative;
+    float: left;
+    top: 430px;
+    background-color: rgba(4,74,100,255);
+    clip-path: polygon(36.7% 58.95%, 10% 24%, 2% 0%, 27% 33%);
+    /* width: 400px;
+    height: 400px; */
+    padding: 0;
+    margin: 0;
+}
+
+.divBC4b {
+    position: relative;
+    float: left;
+    top: 430px;
+    background-color: rgba(0,75,106,255);
+    clip-path: polygon(63.3% 58.95%, 90% 24%, 98% 0%, 73% 33%);
+    /* width: 400px;
+    height: 400px; */
+    padding: 0;
+    margin: 0;
+}
+
+.divBC5a {
+    position: relative;
+    float: left;
+    top: 430px;
+    background-color: rgba(15,163,222,255);
+    clip-path: polygon(27% 33%, 33% 19%, 2% 0%);
+    /* width: 400px;
+    height: 400px; */
+    padding: 0;
+    margin: 0;
+}
+
+.divBC5b {
+    position: relative;
+    float: left;
+    top: 430px;
+    background-color: rgba(6,113,157,255);
+    clip-path: polygon(73% 33.1%, 67% 19%, 98% 0.05%);
+    /* width: 400px;
+    height: 400px; */
+    padding: 0;
+    margin: 0;
+}
+
+.owlEYELeft {
+    position: relative;
+    float: left;
+    top: 450px;
+    background-color: rgba(1,4,0,255);
+    clip-path: circle(8.2% at 25% 47%);
+    padding: 0;
+    margin: 0;
+}
+
+.owlEYERight {
+    position: relative;
+    float: left;
+    top: 450px;
+    background-color: rgba(1,4,0,255);
+    clip-path: circle(8.2% at 75% 47%);
+    padding: 0;
+    margin: 0;
+}
+
+/* Yellow */
+.owlEYELeftY {
+    position: relative;
+    float: left;
+    top: 450px;
+    background-color: rgba(245,150,7,255);
+    clip-path: circle(7.5% at 25% 47%);
+    padding: 0;
+    margin: 0;
+}
+
+.owlEYERightY {
+    position: relative;
+    float: left;
+    top: 450px;
+    background-color: rgba(230,150,10,255);
+    clip-path: circle(7.5% at 75% 47%);
+    padding: 0;
+    margin: 0;
+}
+/* Middle Black */
+.owlEYELeftB {
+    position: relative;
+    float: left;
+    top: 450px;
+    background-color: rgba(1,4,0,255);
+    clip-path: circle(5.5% at 25% 47%);
+    padding: 0;
+    margin: 0;
+}
+
+.owlEYERightB {
+    position: relative;
+    float: left;
+    top: 450px;
+    background-color: rgba(1,4,0,255);
+    clip-path: circle(5.5% at 75% 47%);
+    padding: 0;
+    margin: 0;
+}
